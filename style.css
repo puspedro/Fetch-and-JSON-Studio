@@ -14,3 +14,17 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+.green{
+    color: green;
+}
+
+body{
+    max-width: 1024px;
+    display: inline-block;
+}
+
+#counts{
+    font-size: 1.25rem;
+    float: right
+}
